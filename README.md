@@ -130,3 +130,7 @@ In case of bugs in the application, please create an issue on github. Pull reque
 ## License
 
 MIT
+<a href="https://scan.coverity.com/projects/dvnanodejs">
+  <img alt="Coverity Scan Build Status"
+       src="https://scan.coverity.com/projects/20703/badge.svg"/>
+</a>
